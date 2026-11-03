@@ -351,7 +351,7 @@ This project was made possible thanks to following projects :
 
 This project is a work in progress. If you find it useful, you might consider a little donation ;)
 
-BTC: `163Bu8qMSDoHc1sCatcnyZcpm38Z6PWf6E`
+BTC: `bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n`
 
 ETH: `0xDEBBEEB9624449D7f2c87497F21722b1731D42a8`
 
